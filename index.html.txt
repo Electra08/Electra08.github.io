@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>App Ads</title>
+</head>
+<body>
+This repository hosts the app-ads.txt file.
+</body>
+</html>
